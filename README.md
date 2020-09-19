@@ -42,31 +42,15 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://miro.medium.com/max/500/1*F8gP7v2ouWVZ_sDwVFeVIA.png" alt="kubernetes" width="40" height="40"/>
 <img src="https://jirasupport.files.wordpress.com/2019/10/docker_logo.png" alt="docker" width="40" height="40"/>    
-<!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> -->
 <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/>
-<!--   <img src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-original-wordmark.svg" alt="git" width="40" height="40"/> -->
-  <img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="git" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="git" width="40" height="40"/>
-  <img src="https://www.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png" alt="git" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
+<img src="https://www.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png" alt="git" width="40" height="40"/>
 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHalari&layout=compact&top_langs=8" alt="AbdullahHalari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari&show_icons=true" alt="AbdullahHalari" /></p> 
-<!--
-**AbdullahHalari/AbdullahHalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
