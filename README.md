@@ -1,4 +1,4 @@
-### Hi, I'm Abdullah Halari 👋, a Desiger & Developer from Pakistan :pakistan:
+### Hi, I'm Abdullah Halari 👋, a Designer & Developer from Pakistan :pakistan:
 
 <p align="center">
 <img src="http://slinky.me/uploads/pic/8/slinky_me_54956135c9496.gif" >
