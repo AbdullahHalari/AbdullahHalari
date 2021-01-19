@@ -18,8 +18,8 @@
 
 <p align="center"> 
   <span>Programming Languages</span><br><br>
-<img src="https://i1.wp.com/www.onlineteachinghub.com/wp-content/uploads/2019/07/Rust-Logo.jpg?fit=276%2C262" alt="rust" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRvIjl_y1tr45q20eFWocQ_rWsGpS0oWs6g&usqp=CAU" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/>
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" alt="c" width="40" height="40"/> 
 </p>
 
@@ -28,13 +28,13 @@
 <p align="center">
   <span>Databases</span><br><br>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnTL2T8pjRFgzqIxRE19EKDgvzXAgnO7tg&usqp=CAU" alt="mongodb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
 <p align="center">
   <span>Operating Systems</span><br><br>
-<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJ2FTg6CGhEoLycWcgrlKHFC5x3V_wTJ8qw&usqp=CAU" alt="windows" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/> 
 </p>
 
 <p align="center">
@@ -42,9 +42,9 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://miro.medium.com/max/500/1*F8gP7v2ouWVZ_sDwVFeVIA.png" alt="kubernetes" width="40" height="40"/>
 <img src="https://jirasupport.files.wordpress.com/2019/10/docker_logo.png" alt="docker" width="40" height="40"/>    
-<img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="git" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
 <img src="https://www.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png" alt="git" width="40" height="40"/>
