@@ -13,13 +13,13 @@
 <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/javascript-logo.png" alt="javascript" width="40" height="40"/>
 <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012015/bootstrap.png?itok=tdmjsfTK" alt="bootstrap" width="40" height="40"/>
 <img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="css3" width="40" height="40"/>
 </p>
 
 <p align="center"> 
   <span>Programming Languages</span><br><br>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://i1.wp.com/www.onlineteachinghub.com/wp-content/uploads/2019/07/Rust-Logo.jpg?fit=276%2C262" alt="rust" width="40" height="40"/>
+<img src="https://www.pinclipart.com/picdir/middle/539-5391503_python-programming-language-computer-programming-computer-transparent-background.png" alt="python" width="40" height="40"/>
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" alt="c" width="40" height="40"/> 
 </p>
 
