@@ -11,8 +11,8 @@
   <span>Front-End</span><br><br>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="react" width="40" height="40"/>
 <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/javascript-logo.png" alt="javascript" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012015/bootstrap.png?itok=tdmjsfTK" alt="bootstrap" width="40" height="40"/>
+<img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png" alt="html5" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
