@@ -19,7 +19,7 @@
 <p align="center"> 
   <span>Programming Languages</span><br><br>
 <img src="https://i1.wp.com/www.onlineteachinghub.com/wp-content/uploads/2019/07/Rust-Logo.jpg?fit=276%2C262" alt="rust" width="40" height="40"/>
-<img src="https://www.kindpng.com/picc/m/159-1596060_python-logo-png-transparent-images-python-machine-learning.png" alt="python" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKRvIjl_y1tr45q20eFWocQ_rWsGpS0oWs6g&usqp=CAU" alt="python" width="40" height="40"/>
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" alt="c" width="40" height="40"/> 
 </p>
 
