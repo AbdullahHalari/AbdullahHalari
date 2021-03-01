@@ -53,4 +53,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHalari&layout=compact&top_langs=8" alt="AbdullahHalari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari&show_icons=true" alt="AbdullahHalari" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari" alt="AbdullahHalari" /></p> 
