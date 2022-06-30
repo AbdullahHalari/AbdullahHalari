@@ -1,4 +1,4 @@
-### Hi, I'm Abdullah Halari 👋, a Designer & Developer from Pakistan :pakistan:
+### Hey Guys 👋, I'm Abdullah Halari 👋, a Designer & Developer from Pakistan :pakistan:
 
 <p align="center">
 <a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
