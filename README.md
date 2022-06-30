@@ -69,16 +69,18 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/abdullah-halari-71327a1a6">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abdullah-halari-71327a1a6" target="_blank">
+  <img align="left" alt="LinkdeIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://abdullahhalariportfolio.web.app//">
+<a href="https://abdullahhalariportfolio.web.app//" target="_blank">
   <img align="left" alt="Portfolio" width="22px" src="https://png.pngtree.com/png-vector/20190403/ourlarge/pngtree-vector-portfolio-icon-png-image_908476.jpg" />
 </a>
-<a href="https://www.facebook.com/AbdullahHalari1286">
+<a href="https://www.facebook.com/AbdullahHalari1286" target="_blank">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+
+<br />
 <br />
 
 
