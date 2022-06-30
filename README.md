@@ -30,7 +30,7 @@
   <span>Databases</span><br><br>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="firebase" width="70" height="60"/>  
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="70" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="70" height="70"/>
 </p>
 
 <p align="center">
