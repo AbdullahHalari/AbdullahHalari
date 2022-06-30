@@ -18,9 +18,9 @@
 
 <p align="center"> 
   <span>Programming Languages</span><br><br>
-<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="70" height="70"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="JAVA" width="70" height="70">  
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="70" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="70" height="80"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="JAVA" width="70" height="80">  
 <img src="https://static.wixstatic.com/media/0cfd43_1831013bcc8540fcba4f087dfa07653c~mv2.png/v1/fill/w_350,h_350,al_c,lg_1,q_85/c.webp" alt="c" width="60" height="60"/> 
 </p>
 
