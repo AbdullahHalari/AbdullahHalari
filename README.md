@@ -44,12 +44,12 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> 
 <img src="https://miro.medium.com/max/500/1*F8gP7v2ouWVZ_sDwVFeVIA.png" alt="kubernetes" width="60" height="60"/>
 <img src="https://jirasupport.files.wordpress.com/2019/10/docker_logo.png" alt="docker" width="60" height="60"/>    
-<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png" alt="vscode" width="60" height="60"/>
+<img src="https://www.elegantthemes.com/blog/wp-content/uploads/2019/01/000-VS-Code.png" alt="vscode" width="70" height="70"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="60" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" width="70" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="60" height="60"/>
-<img src="https://www.iconfinder.com/data/icons/flat-icons-web/40/WordPress-512.png" alt="git" width="60" height="60"/>
+<img src="https://www.pngitem.com/pimgs/m/247-2470630_wordpress-logo-transparent-background-wordpress-logo-hd-png.png" alt="wordpress" width="70" height="60"/>
 
 </p>
 
