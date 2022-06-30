@@ -1,7 +1,8 @@
 ### Hi, I'm Abdullah Halari 👋, a Designer & Developer from Pakistan :pakistan:
 <!-- 
 <p align="center">
-<img src="http://slinky.me/uploads/pic/8/slinky_me_54956135c9496.gif" >
+<a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
+<a>
 </p> -->
 
 - - - - 
@@ -83,7 +84,13 @@
 <br />
 <br />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHalari&layout=compact&top_langs=8" alt="AbdullahHalari" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahHalari&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari" alt="AbdullahHalari" /></p> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AbdullahHalari&theme=dracula"  width=60% />
+
+<!-- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=AbdullahHalari&layout=compact&top_langs=8" alt="AbdullahHalari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari" alt="AbdullahHalari" /></p>  -->
