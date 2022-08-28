@@ -42,7 +42,7 @@
   
 <br />
 
-<h1 align="center">
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/abdullah-halari-71327a1a6" target="_blank">
@@ -54,7 +54,7 @@
 <a href="https://www.facebook.com/AbdullahHalari1286" target="_blank">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</h1>
+
 
 
 <br />
