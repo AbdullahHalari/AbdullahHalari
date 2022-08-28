@@ -65,8 +65,49 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahHalari&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
 </h1>
+  
+  
+  
 
 <!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=AbdullahHalari&layout=compact&top_langs=8" alt="AbdullahHalari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari" alt="AbdullahHalari" /></p>  -->
+
+------
+  
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?username=AbdullahHalari&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px" alt="jaffarabbas"  />
+     <a href="https://github.com/AbdullahHalari/github-readme-stats"><img alt="Jaffar Abbas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHalari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/AbdullahHalari/github-readme-activity-graph"><img alt="AbdullahHalari Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbdullahHalari&bg_color=1F222E&color=F8D866&line=de3187&point=5a9bdb&hide_border=true" /></a>
+
+  <br/>
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahHalari&column=7&theme=onedark" />
+</div>
+<br/>
+   
+  
+   <div align="center">
+ 
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahHalari/AbdullahHalari/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahHalari/AbdullahHalari/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+  
+<h1 align="center">WakaTime States</h1>
+
+<p align="center">
+<img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/f2558c4c-7276-4d6e-b09a-e62a88101c08.png" >
+<img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/c4ea214e-e13b-4276-9c7a-36512c29a663.png" >
+</p>
+<p align="center">
+<img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/d9e72bc8-3d27-4def-b034-3d51ef4da893.png" >
+<img align="center" height="330px" width="420px" src="https://wakatime.com/share/@b17623a7-ed92-40f3-9225-bae30aea01a1/20b5a1fe-1278-4a48-ab63-185ec354bf84.png" >
+</p>
+  
+  
