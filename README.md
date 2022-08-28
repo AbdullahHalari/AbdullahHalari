@@ -90,13 +90,7 @@
 </div>
 <br/>
    
-  
-   <div align="center">
- 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahHalari/AbdullahHalari/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AbdullahHalari/AbdullahHalari/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-  
-</div>
+
   
 
   
