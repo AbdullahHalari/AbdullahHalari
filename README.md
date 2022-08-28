@@ -77,8 +77,7 @@
 ------
   
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?username=AbdullahHalari&theme=monokai-metallian&hide_border=true&bg_color=1F222E" height="192px" width="900px" alt="AbdullahHalari"  />
-     <a href="https://github.com/AbdullahHalari/github-readme-stats"><img alt="Abdullah Halari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahHalari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
 
 
 
