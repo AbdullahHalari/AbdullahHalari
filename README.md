@@ -1,4 +1,4 @@
-### Hey Guys 👋, I'm Abdullah Halari 👋, a Designer & Developer from Pakistan :pakistan:
+### Hey Guys 👋,"Abdullah Halari | Innovating Developer & Creative Designer | Bridging Technology and Aesthetics" from Pakistan :pakistan:
 
 
 <p align="center">
@@ -9,7 +9,9 @@
 <a>
 
 - - - - 
-#### <p align="center"> I am a 3rd-year Undergraduate Student, pursuing a Bachelors in Computer Science, who is passionate about *Internet of Things* , *Web & Mobile App Development (FLUTTER)*, *Word Press*, Graphic Design and *Open source* :shipit:. I love to learn and contribute in any and every possible way.</p>
+#### <p align="center"> Passionate Computer Science student with a strong focus on mobile application development. My academic journey has allowed me to immerse myself in various programming languages and technologies such as Java, Swift, React Native, and Flutter. I have developed a strong understanding of mobile UI/UX design principles, APIs, and integration of third-party libraries, and have practical experience building and managing applications for both Android and iOS platforms. I am always eager to tackle complex problems and contribute to team-based projects, constantly seeking opportunities to expand my skills while providing creative and efficient solutions. My ultimate goal is to leverage my skills to build intuitive, user-friendly mobile applications that make a positive impact on people's lives. If you're seeking a dedicated, forward-thinking individual with the agility of a lifelong learner, let's connect!
+
+Feel free to tailor this to better suit your experiences and aspirations. Let me know if you need help with anything else.</p>
 - - - -
 
 <h1 align="center">Languages and Tools</h1>
@@ -65,12 +67,12 @@
 
 <br />
 <br />
-<h1 align="center">
+<!-- <h1 align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdullahHalari&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahHalari&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-</h1>
+</h1>-->
   
   
   
